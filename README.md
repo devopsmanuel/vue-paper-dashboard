@@ -56,5 +56,6 @@ For detailed explanation on how things work, checkout the [guide](https://github
 ## Error, Soluction 
 
 ## License  openssl-legacy-provider
+![solution](/img_error/openssl-legacy-provider.PNG)
 
 [MIT](https://github.com/creativetimofficial/vue-paper-dashboard/blob/master/LICENSE.md)
