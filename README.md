@@ -53,6 +53,8 @@ For detailed explanation on how things work, checkout the [guide](https://github
 - [version-badge](https://img.shields.io/badge/version-1.0.1-blue.svg)
 - [license-badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## License
+## Error, Soluction 
+
+## License  openssl-legacy-provider
 
 [MIT](https://github.com/creativetimofficial/vue-paper-dashboard/blob/master/LICENSE.md)
